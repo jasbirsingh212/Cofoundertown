@@ -1,0 +1,39 @@
+.artical{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: #d3d3d3;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20px;
+    align-items: center;
+
+    a{
+        color: cadetblue;
+        h1{
+            margin-left: 10px;
+        }
+    }
+
+    .subhead_Img{
+        height: fit-content;
+        display: flex;
+        flex-direction: row;
+        .subheader{
+            margin-left: 10px;
+            width: 60%;
+        }
+
+        .image{
+            width: 50%;
+            margin-left: 1%;
+            img{
+                width: 90%;
+            }
+        }
+    }
+
+    .keywords{
+        margin-left: 10px;
+    }
+}
