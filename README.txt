@@ -1,1 +1,2 @@
-Projet was very Interesenting,but not able to make it this time. But you can still check I have completed work as much as I can in the short period of time. Thanks for your time and Consideration.   
+Projet was very Interesenting,but not able to make it this time. But you can still check I have completed work as much as I can in the short period of time. Thanks for your time and Consideration.
+Backend : (correction) Exercise will treated as Blog.     
